@@ -7,7 +7,7 @@ Comments on how to improve the code base is always welcome!
 ![Alt text](/calcscreenshot.png)
 
 ## Features
-Add, subtract, divive, and multiply
+Add, subtract, divide, and multiply
 
 ## Requirements
 Xcode 9. iPhone 6 or newer running iOS 11 isn't necessary but nice to use to deploy the app
